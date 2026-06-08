@@ -1,0 +1,12 @@
+{
+  "name": "i2c-scanner",
+  "version": "0.0.1",
+  "description": "Prosty skaner I2C dla micro:bita",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "custom.ts"
+  ],
+  "public": true
+}
